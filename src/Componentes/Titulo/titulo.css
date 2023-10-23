@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.titulo-titulo{
+    
+    text-align: center;
+    font-family: pacifico, cursive;
+    font-size: 1.3rem;
+    color: black;
+    background-color: white;
+}

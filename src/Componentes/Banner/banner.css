@@ -1,0 +1,43 @@
+.titulo{
+	margin-top: 2rem;
+	margin-bottom: 2rem;
+    padding: 2rem;
+    background-color: beige;
+}
+.nombre{
+    color: #000000;
+    font-family: 'Times New Roman', Times, serif;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	align-content: center;
+	flex-wrap: wrap;
+	width: 90%;
+	padding: 2rem;  
+}
+
+.imagen-banner{
+    width: 30%;
+    height: auto;
+    border-radius: 180px;
+    padding: 13px;
+    display: flex;
+}
+
+.titulo-div{
+	width: 100%;
+    display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+} 
+
+.titulonombre{
+	font-weight: normal;
+    margin-top: 2rem;
+	width: 50%;
+	color: #000000;
+	font-size: 30px;
+	font-family: 'Times New Roman', Times, serif;
+	padding: 1.5em;
+} 

@@ -1,0 +1,46 @@
+.habilidades_tipos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    font-size: 20px;
+    font-family: pacifico;
+    font-style: italic;
+    
+}
+.habilidades{
+    display: flex;
+    flex-direction: column;
+    padding: 3rem;
+    align-items: center;
+    justify-content: center;
+    background: rgb(58, 113, 71);
+}
+
+.item {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.imagen {
+    width: 15%; /* Ajusta este valor según tus necesidades */
+    height: auto; /* Ajusta este valor según tus necesidades */
+}
+
+figcaption {
+    text-align: center;
+    font-size: 30px;
+}
+
+.habilidades_titulo{
+    padding: 2.5rem;
+    text-align: center;
+    background: rgb(58, 113, 71);
+}
+.titulohab {
+    font-family: pacifico, cursive;
+    font-size: 2rem;
+    color: black;
+    padding: 0 0 13px 0;
+}
